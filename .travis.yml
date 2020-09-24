@@ -1,0 +1,6 @@
+languaje: java
+jdk:
+ +oraclejdk8
+ 
+ notifications:
+  slack: uclm-grupo:gdWSG4i2mnBafF3wEIEID6Ac
